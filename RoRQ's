@@ -1,0 +1,63 @@
+
+**https://github.com/rishiip/ruby-on-rails-interview-questions**
+
+What are the advantages of using Ruby on Rails in Web Development?
+A good article from Sentia - http://www.sentia.com.au/blog/8-benefits-of-using-ruby-on-rails-for-web-development
+A good article from Toptal
+What are the disadvantages of using Ruby on Rails in Web Development?
+A nice answer from StackExchange
+What do you mean by Agile Development?
+A good page on WikiPedia
+A good explaination on TutotialsPoint
+Explain MVC in terms of Rails.
+A good explaination on TutotialsPoint
+What are different components of Ruby on Rails?
+[Slidershare] (http://www.slideshare.net/ifuturz/get-aware-of-ruby-on-rails-components)
+Give list of frameworks which is similar to Rails.
+What makes Ruby different from other programming languages?
+What do you mean by Meta Programming?
+Explain how everything is an object in Ruby.
+How could you explain the Ruby OOP model?
+Give difference between last 3 versions of Rails.
+What's the major improvements in Rails 5.0?
+A good article from Site Point
+Another good blog post from [Michelada] (http://blog.michelada.io/whats-new-in-rails-5)
+What do you mean by ORM?
+What is the difference between eager and lazy loading in rails?
+A good explanation can be found from [spritle.com] (https://www.spritle.com/blogs/2011/03/17/eager-loading-and-lazy-loading-in-rails-activerecord/
+What is Self-Referential Association aka Self Join?
+A good explanation from [Rails Casts] (http://railscasts.com/episodes/163-self-referential-association)
+List down types of associations in Rails.
+What is functionality of Helpers?
+Explain eagerloading.
+A good article with types of preloading [eagerloading] (http://blog.arkency.com/2013/12/rails4-preloading)
+What are your favourite Gems?
+Define block, proc and lambda and give difference between them.
+What is ActiveRecord?
+Explain Active Record Callbacks.
+A good explanation from [Ruby on Rails Guides] (http://guides.rubyonrails.org/active_record_callbacks.html)
+Explain Filters.
+Define resource, resources, collection and namespace in terms of routes.
+List down servers supported by Rails.
+What things we can define within Model?
+What is Asset Pipeline?
+Official documentation
+How parsing has been done from ERB file to HTML?
+What is difference between String and Symbol?
+Necessary information about Strings and Symbols could be found there
+What is difference between Render and Redirect?
+What is difference between Gems and Plugins?
+What is difference between Gemfile and Gemfile.lock?
+What is difference between save and save!
+What is difference between find and find_by_xxx method?
+What is difference between includes and extends?
+What is difference between form_for and form_tag?
+What is difference between TDD and BDD?
+What is difference between Application Server and Web Server?
+What is difference between ==, ===, eql? and equal??
+What is single table inheritance(STI) in Rails?
+Necessary information could be found here
+What is polymorphic associations in Rails? How it is differ from single table inheritance?
+Necessary information could be found here
+What will be printed after running the code here?
+Awswer of the above question is here
